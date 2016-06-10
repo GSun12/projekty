@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<pracownicy>
+	<dzial id="IT">
+		<pracownik numer="147852">
+			<imie>Grzegorz</imie>
+			<nazwisko>Brzęczyszczykiewicz</nazwisko>
+			<nrtel>745626331</nrtel>
+			<email>gbrzec@gmail.com</email>
+			<adresy>
+				<adres typ="zameldowanie">
+					<ulica>Szczebrzeszyn</ulica>
+					<nrDomu>12/7</nrDomu>
+					<miejscowosc>Pacanów</miejscowosc>
+					<kodPocztowy>25-684</kodPocztowy>
+				</adres>
+				<adres typ="zamieszkanie">
+					<ulica>Grylewskiego</ulica>
+					<nrDomu>10/1</nrDomu>
+					<miejscowosc>Gdańsk</miejscowosc>
+					<kodPocztowy>80-303</kodPocztowy>
+				</adres>
+			</adresy>
+		</pracownik>
+		<pracownik numer="698523">
+			<imie>Mariusz</imie>
+			<nazwisko>Góralski</nazwisko>
+			<nrtel>578965744</nrtel>
+			<email>mgorla@gmail.com</email>
+			<adresy>
+				<adres typ="zameldowanie">
+					<ulica>OrgiiMajowej</ulica>
+					<nrDomu>6/9</nrDomu>
+					<miejscowosc>Brown</miejscowosc>
+					<kodPocztowy>84-985</kodPocztowy>
+				</adres>
+				<adres typ="zamieszkanie">
+					<ulica>Kościuszko</ulica>
+					<nrDomu>34</nrDomu>
+					<miejscowosc>Gdańsk</miejscowosc>
+					<kodPocztowy>80-565</kodPocztowy>
+				</adres>
+			</adresy>
+		</pracownik>
+		<pracownik numer="128596">
+			<imie>Justyna</imie>
+			<nazwisko>Malinowska</nazwisko>
+			<nrtel>742398510</nrtel>
+			<email>jmalina@gmail.com</email>
+			<adresy>
+				<adres typ="zameldowanie">
+					<ulica>Norblina</ulica>
+					<nrDomu>123</nrDomu>
+					<miejscowosc>Gdańsk</miejscowosc>
+					<kodPocztowy>80-513</kodPocztowy>
+				</adres>
+				<adres typ="zamieszkanie">
+					<ulica>Długa</ulica>
+					<nrDomu>256</nrDomu>
+					<miejscowosc>Kraków</miejscowosc>
+					<kodPocztowy>21-540</kodPocztowy>
+				</adres>
+			</adresy>
+		</pracownik>
+	</dzial>
+	<dzial id="SP">
+		<pracownik numer="144568">
+			<imie>Grzegorzowa</imie>
+			<nazwisko>Brzęczyszczykiewicza</nazwisko>
+			<nrtel>175468331</nrtel>
+			<email>gbrzec@gmail.com</email>
+			<adresy>
+				<adres typ="zameldowanie">
+					<ulica>Szasfasdeszyn</ulica>
+					<nrDomu>12/7</nrDomu>
+					<miejscowosc>Pasadsadów</miejscowosc>
+					<kodPocztowy>25-684</kodPocztowy>
+				</adres>
+				<adres typ="zamieszkanie">
+					<ulica>Grylvunasgo</ulica>
+					<nrDomu>10/1</nrDomu>
+					<miejscowosc>Gnygdoak</miejscowosc>
+					<kodPocztowy>80-303</kodPocztowy>
+				</adres>
+			</adresy>
+		</pracownik>
+		<pracownik numer="123985">
+			<imie>Madsgfsdf</imie>
+			<nazwisko>Gósadad</nazwisko>
+			<nrtel>515656824</nrtel>
+			<email>mgorla@gmail.com</email>
+			<adresy>
+				<adres typ="zameldowanie">
+					<ulica>dfvdvdg wej</ulica>
+					<nrDomu>6/9</nrDomu>
+					<miejscowosc>Bxzvczc</miejscowosc>
+					<kodPocztowy>84-985</kodPocztowy>
+				</adres>
+				<adres typ="zamieszkanie">
+					<ulica>Kxzczfc</ulica>
+					<nrDomu>34</nrDomu>
+					<miejscowosc>Gsafb</miejscowosc>
+					<kodPocztowy>80-565</kodPocztowy>
+				</adres>
+			</adresy>
+		</pracownik>
+		<pracownik numer="123985">
+			<imie>Jzdfsdbs</imie>
+			<nazwisko>dnsgf</nazwisko>
+			<nrtel>398703651</nrtel>
+			<email>jmalina@gmail.com</email>
+			<adresy>
+				<adres typ="zameldowanie">
+					<ulica>xgtgd</ulica>
+					<nrDomu>123</nrDomu>
+					<miejscowosc>Gdsfhtd</miejscowosc>
+					<kodPocztowy>80-513</kodPocztowy>
+				</adres>
+				<adres typ="zamieszkanie">
+					<ulica>ests</ulica>
+					<nrDomu>256</nrDomu>
+					<miejscowosc>Kraków</miejscowosc>
+					<kodPocztowy>21-540</kodPocztowy>
+				</adres>
+			</adresy>
+		</pracownik>
+	</dzial>
+</pracownicy>
