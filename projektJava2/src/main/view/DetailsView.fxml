@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.40" xmlns:fx="http://javafx.com/fxml/1" fx:controller="main.view.DetailsViewContoller">
+   <children>
+      <TableView fx:id="Author_T" prefHeight="400.0" prefWidth="600.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <columns>
+            <TableColumn fx:id="firstAuthorNameColumn" maxWidth="4000.0" prefWidth="88.0" text="Imię" />
+            <TableColumn fx:id="lastAuthorNameColumn" prefWidth="95.0" text="Nazwisko" />
+            <TableColumn fx:id="bornColumn" maxWidth="4000.0" prefWidth="75.0" text="Rok Urodzenia" />
+            <TableColumn fx:id="countryColumn" maxWidth="4000.0" prefWidth="65.0" text="Pochodzenie" />
+         </columns>
+         <columnResizePolicy>
+            <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+         </columnResizePolicy>
+      </TableView>
+   </children>
+</AnchorPane>
