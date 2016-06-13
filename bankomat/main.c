@@ -5,8 +5,8 @@ int wczytaj_kwote(){
 	int a=1,kwota=0;
 	while(a){
 	
-	printf("podaj kwote : ");//wydruk na ekran
-   	scanf("%d",&kwota);//wprowadzenie do programu
+	printf("podaj kwote : ");
+   	scanf("%d",&kwota);
    	if(kwota%10!=0)
    		printf("podales niepoprawa kwote sprobuj jeszcze raz\n");
    		
@@ -22,7 +22,7 @@ void wczytaj_zasobnik(int bank[]){
 	int wzorzec[]={ 200, 100, 50, 20, 10};
 	int a=1,licznik=0;
 	while(a){
-		printf("podaj kwote banknotu do wprowadzenia: ");//wydruk na ekran
+		printf("podaj kwote banknotu do wprowadzenia: ");
 	   	scanf("%d",&pom);//wprowadzenie do programu
 	   	if(pom%10!=0)
 	   		printf("podales niepoprawa wartosc banknotu sprobuj jeszcze raz\n");
@@ -40,7 +40,7 @@ void wczytaj_zasobnik(int bank[]){
 			}
 	}
 			
-		if(pom==-1)		break;//wychodzi ze slepego while w tej metodzie i kod leci dalej
+		if(pom==-1)		break;
 	}
 	
 	
