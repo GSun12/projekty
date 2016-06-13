@@ -16,8 +16,7 @@ import javafx.stage.Modality;
 import javafx.stage.Stage;
 import main.model.*;
 import main.view.*;
-//2720
-//todokhorodec@inf.ug.edu.pl
+
 public class MainApp extends Application {
 
     private Stage primaryStage;
@@ -94,25 +93,6 @@ public class MainApp extends Application {
         }
     }
 
-// okno glowne ktore bylo przed dodaniem kart do przelaczania miedzy ksiazkami a wypozyczeniem
-//    public void showMainView () {
-//        try {
-//
-//            FXMLLoader loader = new FXMLLoader();
-//            loader.setLocation(MainApp.class.getResource("view/MainView.fxml"));
-//            AnchorPane MainView = (AnchorPane) loader.load();
-//
-//
-//            rootLayout.setCenter(MainView);
-//
-//
-//            MainViewController controller = loader.getController();
-//            controller.setMainApp(this);
-//
-//        } catch (IOException e) {
-//            e.printStackTrace();
-//        }
-//    }
 
     public boolean showPersonEditDialog(Czytelnik czytelnik,String dialogName,String pesel,String index) {
         try {
