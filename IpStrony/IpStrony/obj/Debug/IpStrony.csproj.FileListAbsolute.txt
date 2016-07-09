@@ -1,0 +1,9 @@
+c:\users\gsun1\documents\visual studio 2015\Projects\IpStrony\IpStrony\bin\Debug\IpStrony.exe.config
+c:\users\gsun1\documents\visual studio 2015\Projects\IpStrony\IpStrony\bin\Debug\IpStrony.exe
+c:\users\gsun1\documents\visual studio 2015\Projects\IpStrony\IpStrony\bin\Debug\IpStrony.pdb
+c:\users\gsun1\documents\visual studio 2015\Projects\IpStrony\IpStrony\obj\Debug\IpStrony.csprojResolveAssemblyReference.cache
+c:\users\gsun1\documents\visual studio 2015\Projects\IpStrony\IpStrony\obj\Debug\IpStrony.Main.resources
+c:\users\gsun1\documents\visual studio 2015\Projects\IpStrony\IpStrony\obj\Debug\IpStrony.Properties.Resources.resources
+c:\users\gsun1\documents\visual studio 2015\Projects\IpStrony\IpStrony\obj\Debug\IpStrony.csproj.GenerateResource.Cache
+c:\users\gsun1\documents\visual studio 2015\Projects\IpStrony\IpStrony\obj\Debug\IpStrony.exe
+c:\users\gsun1\documents\visual studio 2015\Projects\IpStrony\IpStrony\obj\Debug\IpStrony.pdb
