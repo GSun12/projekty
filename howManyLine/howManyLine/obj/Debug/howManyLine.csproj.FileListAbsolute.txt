@@ -1,0 +1,6 @@
+C:\Users\gsun1\Desktop\Projekt\howManyLine\howManyLine\bin\Debug\howManyLine.exe.config
+C:\Users\gsun1\Desktop\Projekt\howManyLine\howManyLine\bin\Debug\howManyLine.exe
+C:\Users\gsun1\Desktop\Projekt\howManyLine\howManyLine\bin\Debug\howManyLine.pdb
+C:\Users\gsun1\Desktop\Projekt\howManyLine\howManyLine\obj\Debug\howManyLine.csprojResolveAssemblyReference.cache
+C:\Users\gsun1\Desktop\Projekt\howManyLine\howManyLine\obj\Debug\howManyLine.exe
+C:\Users\gsun1\Desktop\Projekt\howManyLine\howManyLine\obj\Debug\howManyLine.pdb
