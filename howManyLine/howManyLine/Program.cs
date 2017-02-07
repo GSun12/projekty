@@ -11,19 +11,15 @@ namespace howManyLine
     {
         static void Main(string[] args)
         {
-            DirectoryInfo di = new DirectoryInfo(@"C:\Users\");
+            DirectoryInfo di = new DirectoryInfo(@"C:\Users\gsun1\Documents\GitHub\zespol\mvc\Gym\Gym");
             int allLine = 0;
-         
-
-            foreach (var fi in di.GetFiles("*.cs", SearchOption.AllDirectories))
+            string[] listNameOfFile = {"*.cs", "*.cshtml"};
+            foreach (var s in listNameOfFile)
             {
-                Console.WriteLine(fi.Name);
-                if (fi.DirectoryName != null)
-                {
-                    string[] lines = File.ReadAllLines(fi.FullName);
-                    Console.WriteLine(lines.Length);
-                    allLine = allLine + lines.Length;
-                }
+
+               allLine=allLine+ new CountLine().GetAllNumberLineInFile(s,di);
+
+
             }
             Console.WriteLine("koniec liczenia");
             Console.WriteLine(allLine);
